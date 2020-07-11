@@ -55,4 +55,6 @@ print(euro12.shape[0])
 print(euro12.shape[1])
 print("xxx")
 
+print("this is my pc")
+
 
