@@ -53,6 +53,6 @@ print(euro12.shape[0])
 
 #获取列
 print(euro12.shape[1])
-
+print("xxx")
 
 
