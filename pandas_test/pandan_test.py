@@ -51,5 +51,8 @@ print(euro12.shape[0])
 #试试一下git
 #试一下git add
 
+#获取列
+print(euro12.shape[1])
+
 
 
